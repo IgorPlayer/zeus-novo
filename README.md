@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: Igor YT
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> FEITO E TRADUZIDO POR: Igor_Player
 <p align="center">
 <img src="https://i.giphy.com/media/4ilFRqgbzbx4c/source.gif" width="230" height="230"/>
 </p>
